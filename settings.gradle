@@ -1,0 +1,1 @@
+include ':app', ':contentprovider_01', ':contentprovider_02'
